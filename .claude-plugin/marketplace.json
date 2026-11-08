@@ -1,0 +1,14 @@
+{
+  "name": "wonderful",
+  "owner": { "name": "Wonderful", "email": "hello@wonderful.money" },
+  "description": "Wonderful, the budgeting app for one person or a couple, inside Claude.",
+  "plugins": [
+    {
+      "name": "wonderful",
+      "source": "./plugins/wonderful",
+      "description": "Ask about your money in Claude: how the month is going, what's due before payday, odd charges, and whether you can buy something. Read only.",
+      "category": "productivity",
+      "tags": ["budgeting", "personal-finance", "couples"]
+    }
+  ]
+}

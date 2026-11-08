@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wonderful": {
+      "type": "http",
+      "url": "https://mcp.wonderful.money/mcp"
+    }
+  }
+}

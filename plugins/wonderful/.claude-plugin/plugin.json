@@ -1,0 +1,24 @@
+{
+  "name": "wonderful",
+  "displayName": "Wonderful",
+  "version": "0.1.0",
+  "description": "Ask about your money in Claude, from your Wonderful plan: how the month is going, what's due before payday, odd charges, and whether you can buy something. Read only: changes happen in Wonderful.",
+  "author": {
+    "name": "Wonderful",
+    "email": "hello@wonderful.money",
+    "url": "https://wonderful.money"
+  },
+  "homepage": "https://wonderful.money",
+  "repository": "https://github.com/wonderful-money/wonderful-claude",
+  "license": "MIT",
+  "keywords": [
+    "budgeting",
+    "personal finance",
+    "couples",
+    "paycheck"
+  ],
+  "privacyPolicyUrl": "https://wonderful.money/privacy",
+  "termsOfServiceUrl": "https://wonderful.money/terms",
+  "supportUrl": "https://wonderful.money",
+  "documentationUrl": "https://wonderful.money"
+}
